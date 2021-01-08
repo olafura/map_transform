@@ -1,6 +1,6 @@
 defmodule MapTransformTest do
   use ExUnit.Case
-  doctest MapTransform
+  doctest MapTransform, import: true
 
   test "transform" do
     expected = %{

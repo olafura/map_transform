@@ -1,6 +1,7 @@
 # MapTransform
 
-**TODO: Add description**
+This is a simple library that can transform one map into another through
+mapping rules.
 
 ## Installation
 
